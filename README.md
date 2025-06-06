@@ -1,2 +1,2 @@
-# .github
-RICING MY ORGANIZATION??
+# uhh
+Does this show up on org profile?
